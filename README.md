@@ -1,4 +1,4 @@
-# 🧵 TweetCraft
+# TweetCraft 🪄
 
 AI-powered tweet thread generator using multi-agent architecture. Generate engaging Twitter threads with research, strategy, writing, editing, and analytics agents working together.
 
